@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/ChineduOguejiofor/portfolio/issues"
   },
-  "homepage": "https://ChineduOguejiofor.github.io/portfolio"
+  "homepage": "https://ChineduOguejiofor.github.io/portfolio",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
 }
