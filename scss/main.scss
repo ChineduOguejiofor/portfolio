@@ -55,7 +55,6 @@ main {
 
   .icons {
     margin-top: 1rem;
-
     a {
       padding: 0.4rem;
       @include easeOut;
@@ -65,7 +64,21 @@ main {
       }
     }
   }
+  // .fa-twitter:hover {
+  //   color: #38a1f3;
+  // }
 
+  // .fa-facebook:hover {
+  //   color: #3b5998;
+  // }
+
+  // .fa-instagram:hover {
+  //   color: #3f729b;
+  // }
+
+  // .fa-linkedin:hover {
+  //   color: #0077b5;
+  // }
   &#home {
     overflow: hidden;
     h1 {
